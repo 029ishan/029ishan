@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning React and Redux 💞️ 
 - 📫 Reach me via ishankhanal242@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am dari
+
 
 
